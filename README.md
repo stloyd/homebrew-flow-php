@@ -14,7 +14,7 @@ brew tap flow-php/flow-php
 Then install box using the following command
 
 ```bash
-brew install flow-php/flow-php
+brew install flow-php
 ```
 
 You can then run the `flow` command from anywhere in the system
