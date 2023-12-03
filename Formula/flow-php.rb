@@ -1,4 +1,4 @@
-class Flow < Formula
+class FlowPhp < Formula
   desc "Flow is a first and the most advanced PHP ETL framework"
   homepage "https://github.com/flow-php/flow"
   url "https://github.com/flow-php/flow/releases/download/0.5.0/flow.phar"
